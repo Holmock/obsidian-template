@@ -1,0 +1,24 @@
+{
+  "command_timeout": 6,
+  "templates_folder": "template",
+  "templates_pairs": [],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "template/t-默认笔记模板.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "template/insert-cpp.md",
+    "template/insert-java.md"
+  ],
+  "startup_templates": [],
+  "enable_ribbon_icon": true
+}

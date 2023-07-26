@@ -1,0 +1,207 @@
+{
+  "workspaces": {
+    "test": {
+      "main": {
+        "id": "3b75762a073bad3c",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ab45226257259ef",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1c61bef4d5280641",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "未命名.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b878890b5224c3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "23fbfcb20f2fb111",
+            "type": "tabs",
+            "dimension": 76.27906976744187,
+            "children": [
+              {
+                "id": "e06f656723d85b66",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "88c4fe5b29a65bac",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "eec7064a613ae18c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d91c335c3cd9dba6",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e000a21dd4c39376",
+            "type": "tabs",
+            "dimension": 23.72093023255814,
+            "children": [
+              {
+                "id": "21d121100b00ab70",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 233.5
+      },
+      "right": {
+        "id": "489053b84234bc37",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c837cb568888f00",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a42a40c74836d9bd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02-Leetcode/10 动态规划/⭐动态规划总结.md"
+                  }
+                }
+              },
+              {
+                "id": "31615472cc69a7b3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "f947b8dd7090f828",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "未命名.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7698942274da7085",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "未命名.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e297c758cb907a17",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "109eca828b7be34b",
+                "type": "leaf",
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:新建白板": false,
+          "obsidian42-brat:BRAT": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "templater-obsidian:Templater": false,
+          "markdown-table-editor:Open Markdown Table Editor": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "workspaces:管理工作区布局": false,
+          "cmdr:文件列表: 在文件列表中显示当前文件": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "1c61bef4d5280641",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "template"
+        ]
+      }
+    }
+  },
+  "active": "test"
+}

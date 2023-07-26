@@ -1,0 +1,17 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
+  "translucency": false,
+  "baseFontSize": 18,
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "custom-admonitions.42f762",
+    "【卡片视图】cards",
+    "【卡片视图】zettelkasten",
+    "yaozhuwa@CSS",
+    "custom-admonitions.c9c6cb",
+    "custom-admonitions.82e25a",
+    "color-callout",
+    "预览模式优化-空白行-行间距"
+  ]
+}

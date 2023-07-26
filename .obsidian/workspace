@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "3b75762a073bad3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e973efa805e3be3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Leetcode/1 数组/3 移除元素.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b878890b5224c3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "23fbfcb20f2fb111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e06f656723d85b66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "88c4fe5b29a65bac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eec7064a613ae18c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "489053b84234bc37",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c837cb568888f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a42a40c74836d9bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Leetcode/1 数组/3 移除元素.md"
+              }
+            }
+          },
+          {
+            "id": "b6a9b25f944f297b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Leetcode/1 数组/3 移除元素.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7b7a20855e56c0e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Leetcode/1 数组/3 移除元素.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31615472cc69a7b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 189
+  },
+  "active": "2e973efa805e3be3",
+  "lastOpenFiles": [
+    "调芯/会议讨论.md",
+    "Leetcode/1 数组/⭐ 数组总结.md",
+    "调芯/采图.md",
+    "调芯/- Home.md",
+    "Leetcode/3 哈希表/10. 总结篇.md",
+    "调芯/专利.md",
+    "调芯/文献.md",
+    "调芯/镜头记录.md",
+    "Leetcode/补充题/3.哈希表补充题/剑指 Offer 39. 数组中出现次数超过一半的数字.md",
+    "Leetcode/补充题/2.链表补充题/剑指 Offer 35. 复杂链表的复制 ⭐.md"
+  ]
+}

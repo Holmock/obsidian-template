@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "3b75762a073bad3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ebfb54fd2570cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0df209cbfe9ae011",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b878890b5224c3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "23fbfcb20f2fb111",
+        "type": "tabs",
+        "dimension": 76.27906976744187,
+        "children": [
+          {
+            "id": "e06f656723d85b66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88c4fe5b29a65bac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eec7064a613ae18c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d91c335c3cd9dba6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e000a21dd4c39376",
+        "type": "tabs",
+        "dimension": 23.72093023255814,
+        "children": [
+          {
+            "id": "21d121100b00ab70",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "489053b84234bc37",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c837cb568888f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a42a40c74836d9bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-Leetcode/10 动态规划/⭐动态规划总结.md"
+              }
+            }
+          },
+          {
+            "id": "31615472cc69a7b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f947b8dd7090f828",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7698942274da7085",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e297c758cb907a17",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "109eca828b7be34b",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "templater-obsidian:Templater": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "cmdr:文件列表: 在文件列表中显示当前文件": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "0df209cbfe9ae011",
+  "lastOpenFiles": [
+    "template/insert-cpp.md",
+    "template/t-date.md",
+    "template/t-block-id.md",
+    "template/t-默认笔记模板.md",
+    "template/insert-java.md",
+    "未命名.md",
+    "未命名 1.md",
+    "template/fm.md",
+    "template/代码模板.md",
+    "template/代码增加方法模板.md",
+    "template/实验模板.md",
+    "template/事件文献fm模板.md",
+    "template/未命名.md",
+    "template/未命名 1.md",
+    "template/tp-book-callout 1.md",
+    "template/t-日记模板.md",
+    "template/zotero模板.md",
+    "00-Home/Interest.md",
+    "00-Home/Home.md",
+    "⭐work/秋招.md",
+    "⭐work/找实习.md",
+    "template/Zotero Paper Color.md",
+    "10-Essay/论文.md",
+    "10-Essay/论文结构.md",
+    "09-Zotero/偏心和倾斜光学系统初级象差理论的研究.md",
+    "09-Zotero/偏心和倾斜光学系统的像差特性.md",
+    "03-CSLearn/attachments/Pasted image 20230629212945.png",
+    "02-Leetcode/1 数组/attachments/Pasted image 20230627203724.png",
+    "09-Zotero/assets/gaoCompactLightweightPanoramic2022/image-3-x171-y504.png",
+    "09-Zotero/assets/image-1-x181-y451.png",
+    "09-Zotero/assets/gaoCompactLightweightPanoramic2022/image-3-x118-y492.png",
+    "09-Zotero/assets/gaoCompactLightweightPanoramic2022",
+    "09-Zotero/assets/image-3-x328-y199.png",
+    "09-Zotero/assets/image-2-x297-y47.png",
+    "09-Zotero/assets/wuweiJiyuxingdiantutuoyuandufenbudeguangxuexitongzhuangpeiwuchajisuanfangfa2022/image-1-x181-y451.png",
+    "09-Zotero/assets/image-3-x118-y492.png",
+    "template/Zoteo.txt",
+    "template/新建文本文档.txt",
+    "09-Zotero/assets/wuweiJiyuxingdiantutuoyuandufenbudeguangxuexitongzhuangpeiwuchajisuanfangfa2022/image-3-x328-y199.png",
+    "09-Zotero/assets/wuweiJiyuxingdiantutuoyuandufenbudeguangxuexitongzhuangpeiwuchajisuanfangfa2022",
+    "template/color-callout.css",
+    "10-Essay/attachments",
+    "10-Essay",
+    "09-Zotero/assets/jokechen;yarhselyPianxinheqingxieguangxuexitongdexiangchatexing2005",
+    "10-AlignmentPaper",
+    "09-Zotero/alignment/未命名.canvas",
+    "09-Zotero/alignment",
+    "08-Paper/未命名.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "未命名 2.canvas"
+  ]
+}

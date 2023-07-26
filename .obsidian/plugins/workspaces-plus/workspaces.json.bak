@@ -1,0 +1,1620 @@
+{
+  "workspaces": {
+    "R-镜头": {
+      "main": {
+        "id": "3b75762a073bad3c",
+        "type": "split",
+        "children": [
+          {
+            "id": "4142ebadc748ff95",
+            "type": "tabs",
+            "dimension": 68.76790830945558,
+            "children": [
+              {
+                "id": "f68f0aca2c0dce60",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10-CoreAdjustment/00-Home-CoreAdjustment.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "93e3d50120baae39",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10-CoreAdjustment/实验-resnet50-单图像-loss阈值法.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "16e8a54e7df8a70d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10-CoreAdjustment/实验-resnet50-单图像-loss阈值法.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "67f9bd26912ffdde",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10-CoreAdjustment/调芯专利.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "3b047acbfb419e4e",
+            "type": "tabs",
+            "dimension": 31.23209169054441,
+            "children": [
+              {
+                "id": "20988192ca51fef3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Server/Linux常用命令.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b878890b5224c3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "23fbfcb20f2fb111",
+            "type": "tabs",
+            "dimension": 76.26404494382022,
+            "children": [
+              {
+                "id": "e06f656723d85b66",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "88c4fe5b29a65bac",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "eec7064a613ae18c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e000a21dd4c39376",
+            "type": "tabs",
+            "dimension": 23.735955056179776,
+            "children": [
+              {
+                "id": "21d121100b00ab70",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "489053b84234bc37",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c837cb568888f00",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a42a40c74836d9bd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "01-Server/Linux常用命令.md"
+                  }
+                }
+              },
+              {
+                "id": "af75fe66d3bed15b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "b5edd298e629f4ff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b6a9b25f944f297b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "01-Server/Linux常用命令.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "7b7a20855e56c0e3",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "01-Server/Linux常用命令.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "31615472cc69a7b3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 338.5,
+        "collapsed": true
+      },
+      "active": "20988192ca51fef3"
+    },
+    "R-Event": {
+      "main": {
+        "id": "3b75762a073bad3c",
+        "type": "split",
+        "children": [
+          {
+            "id": "592db8ea3ef539e2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c45893f409de454",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "11-EventDepth/00-Home-EventDepth.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b878890b5224c3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "23fbfcb20f2fb111",
+            "type": "tabs",
+            "dimension": 76.26404494382022,
+            "children": [
+              {
+                "id": "e06f656723d85b66",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "88c4fe5b29a65bac",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#paper",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "eec7064a613ae18c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e000a21dd4c39376",
+            "type": "tabs",
+            "dimension": 23.735955056179776,
+            "children": [
+              {
+                "id": "21d121100b00ab70",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 375.5
+      },
+      "right": {
+        "id": "489053b84234bc37",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c837cb568888f00",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a42a40c74836d9bd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "00-Home/草稿.md"
+                  }
+                }
+              },
+              {
+                "id": "af75fe66d3bed15b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "b5edd298e629f4ff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b6a9b25f944f297b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "00-Home/草稿.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "7b7a20855e56c0e3",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "00-Home/草稿.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "31615472cc69a7b3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 210.5
+      },
+      "active": "e06f656723d85b66"
+    },
+    "CS": {
+      "main": {
+        "id": "3b75762a073bad3c",
+        "type": "split",
+        "children": [
+          {
+            "id": "592db8ea3ef539e2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "098f86205c4e8792",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03-CSLearn/C++路线.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "47881c6bdeef8fe8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03-CSLearn/操作系统/操作系统.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "9b2beae9a2c40eaa",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "03-CSLearn/操作系统/现代操作系统（第三版）.pdf"
+                  }
+                }
+              },
+              {
+                "id": "eec75fc63714345f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03-CSLearn/操作系统/现代操作系统pdf笔记/第2章 进程和线程.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "80f7ac2bba0def30",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03-CSLearn/操作系统/现代操作系统pdf笔记/第1章 操作系统介绍.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b878890b5224c3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "23fbfcb20f2fb111",
+            "type": "tabs",
+            "dimension": 76.26404494382022,
+            "children": [
+              {
+                "id": "e06f656723d85b66",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "88c4fe5b29a65bac",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#paper",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "eec7064a613ae18c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e000a21dd4c39376",
+            "type": "tabs",
+            "dimension": 23.735955056179776,
+            "children": [
+              {
+                "id": "21d121100b00ab70",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 397.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "489053b84234bc37",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c837cb568888f00",
+            "type": "tabs",
+            "dimension": 76.01918465227818,
+            "children": [
+              {
+                "id": "a42a40c74836d9bd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "03-CSLearn/操作系统/现代操作系统pdf笔记/第2章 进程和线程.md"
+                  }
+                }
+              },
+              {
+                "id": "af75fe66d3bed15b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "b5edd298e629f4ff",
+            "type": "tabs",
+            "dimension": 23.980815347721823,
+            "children": [
+              {
+                "id": "b6a9b25f944f297b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "03-CSLearn/操作系统/现代操作系统pdf笔记/第2章 进程和线程.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "7b7a20855e56c0e3",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "03-CSLearn/操作系统/现代操作系统pdf笔记/第2章 进程和线程.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "31615472cc69a7b3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 210.5,
+        "collapsed": true
+      },
+      "active": "eec75fc63714345f"
+    },
+    "Leetcode": {
+      "main": {
+        "id": "3b75762a073bad3c",
+        "type": "split",
+        "children": [
+          {
+            "id": "07323554469bb6fe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7bc95c5564bd3567",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Leetcode/0 指南/- Leetcode.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "18c933dc08ab07ae",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Leetcode/7 二叉树/⭐二叉树总结.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b7cd972e26b5bb9d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Leetcode/9 贪心算法/❌⭐贪心总结.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "7d4573f59a11e596",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d44977be26776e8f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Leetcode/每日一题/每日一题.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b878890b5224c3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "23fbfcb20f2fb111",
+            "type": "tabs",
+            "dimension": 76.27906976744187,
+            "children": [
+              {
+                "id": "e06f656723d85b66",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "88c4fe5b29a65bac",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "eec7064a613ae18c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e000a21dd4c39376",
+            "type": "tabs",
+            "dimension": 23.72093023255814,
+            "children": [
+              {
+                "id": "21d121100b00ab70",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 247.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "489053b84234bc37",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c837cb568888f00",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a42a40c74836d9bd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02-Leetcode/7 二叉树/⭐二叉树总结.md"
+                  }
+                }
+              },
+              {
+                "id": "50a82c2fe5000566",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "31615472cc69a7b3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 283.5
+      },
+      "active": "18c933dc08ab07ae"
+    },
+    "Home": {
+      "main": {
+        "id": "3b75762a073bad3c",
+        "type": "split",
+        "children": [
+          {
+            "id": "b5e75a4bc6a93f41",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d24ce5b042b78721",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00-Home/Home.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "4e620baf79d51530",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b878890b5224c3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "23fbfcb20f2fb111",
+            "type": "tabs",
+            "dimension": 76.26404494382022,
+            "children": [
+              {
+                "id": "e06f656723d85b66",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "88c4fe5b29a65bac",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "eec7064a613ae18c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e000a21dd4c39376",
+            "type": "tabs",
+            "dimension": 23.735955056179776,
+            "children": [
+              {
+                "id": "21d121100b00ab70",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "489053b84234bc37",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c837cb568888f00",
+            "type": "tabs",
+            "dimension": 42.08633093525179,
+            "children": [
+              {
+                "id": "af75fe66d3bed15b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "31615472cc69a7b3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "362f8a2e41e7bab8",
+            "type": "tabs",
+            "dimension": 31.894484412470025,
+            "children": [
+              {
+                "id": "8a615ac263a00ea7",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "00-Home/cute-gif/龙猫1.gif"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f479efab0780c69a",
+            "type": "tabs",
+            "dimension": 26.019184652278177,
+            "children": [
+              {
+                "id": "212c6a0f16988942",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "00-Home/cute-gif/龙猫2.gif"
+                  }
+                }
+              },
+              {
+                "id": "e925eb54f95fa1be",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "00-Home/cute-gif/龙猫3.gif"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 273.5
+      },
+      "active": "d24ce5b042b78721"
+    },
+    "文学": {
+      "main": {
+        "id": "3b75762a073bad3c",
+        "type": "split",
+        "children": [
+          {
+            "id": "592db8ea3ef539e2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6b290e3f3b0d9854",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "523314c423eb0625",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "80-Literature/诗词.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b878890b5224c3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "23fbfcb20f2fb111",
+            "type": "tabs",
+            "dimension": 76.26404494382022,
+            "children": [
+              {
+                "id": "e06f656723d85b66",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "88c4fe5b29a65bac",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "eec7064a613ae18c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e000a21dd4c39376",
+            "type": "tabs",
+            "dimension": 23.735955056179776,
+            "children": [
+              {
+                "id": "21d121100b00ab70",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "489053b84234bc37",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c837cb568888f00",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a42a40c74836d9bd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "80-Literature/诗词.md"
+                  }
+                }
+              },
+              {
+                "id": "af75fe66d3bed15b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "b5edd298e629f4ff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b6a9b25f944f297b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "80-Literature/诗词.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "7b7a20855e56c0e3",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "80-Literature/诗词.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "31615472cc69a7b3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 210.5
+      },
+      "active": "6b290e3f3b0d9854"
+    },
+    "pptlearn": {
+      "main": {
+        "id": "3b75762a073bad3c",
+        "type": "split",
+        "children": [
+          {
+            "id": "52cdd72dfbf4bd79",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57f8609c458a02bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "30-PPTlearn/零一PPT视频学习.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "b5e75a4bc6a93f41",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d24ce5b042b78721",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00-Home/Home.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "34331db193d0a394",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "30-PPTlearn/PPTlearn.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "46ed446e68a449d8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "30-PPTlearn/PPTlearn自我整理.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b878890b5224c3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "23fbfcb20f2fb111",
+            "type": "tabs",
+            "dimension": 76.26404494382022,
+            "children": [
+              {
+                "id": "e06f656723d85b66",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "88c4fe5b29a65bac",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "eec7064a613ae18c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e000a21dd4c39376",
+            "type": "tabs",
+            "dimension": 23.735955056179776,
+            "children": [
+              {
+                "id": "21d121100b00ab70",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "489053b84234bc37",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c837cb568888f00",
+            "type": "tabs",
+            "dimension": 42.08633093525179,
+            "children": [
+              {
+                "id": "a42a40c74836d9bd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "30-PPTlearn/PPTlearn自我整理.md"
+                  }
+                }
+              },
+              {
+                "id": "af75fe66d3bed15b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "31615472cc69a7b3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "1d98d88659aa1092",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "30-PPTlearn/PPTlearn自我整理.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b438faf80ca03b3d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "30-PPTlearn/PPTlearn自我整理.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "362f8a2e41e7bab8",
+            "type": "tabs",
+            "dimension": 31.894484412470025,
+            "children": [
+              {
+                "id": "8a615ac263a00ea7",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "00-Home/cute-gif/龙猫1.gif"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f479efab0780c69a",
+            "type": "tabs",
+            "dimension": 26.019184652278177,
+            "children": [
+              {
+                "id": "212c6a0f16988942",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "00-Home/cute-gif/龙猫2.gif"
+                  }
+                }
+              },
+              {
+                "id": "e925eb54f95fa1be",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "00-Home/cute-gif/龙猫3.gif"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 273.5,
+        "collapsed": true
+      },
+      "active": "46ed446e68a449d8"
+    },
+    "深度学习": {
+      "main": {
+        "id": "3b75762a073bad3c",
+        "type": "split",
+        "children": [
+          {
+            "id": "4128d2fffcb9bfa2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4842b75fd8d1c2df",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20-Deep Learning/20-Deep Learning.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "3f3837754e08e819",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20-Deep Learning/梯度下降.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3af9f2834a912a8b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20-Deep Learning/Vision Transformer.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "18abcd58870723d4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20-Deep Learning/深度学习课程/深度学习课程.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b47f9706a1f84d20",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20-Deep Learning/深度学习课程/68 Transformer.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b878890b5224c3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "23fbfcb20f2fb111",
+            "type": "tabs",
+            "dimension": 76.26404494382022,
+            "children": [
+              {
+                "id": "e06f656723d85b66",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "88c4fe5b29a65bac",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "内参",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "eec7064a613ae18c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "e000a21dd4c39376",
+            "type": "tabs",
+            "dimension": 23.735955056179776,
+            "children": [
+              {
+                "id": "21d121100b00ab70",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 353.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "489053b84234bc37",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c837cb568888f00",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "31615472cc69a7b3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "862b23b4c0f4032d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "20-Deep Learning/深度学习课程/68 Transformer.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 273.5
+      },
+      "active": "b47f9706a1f84d20"
+    }
+  },
+  "active": "深度学习"
+}

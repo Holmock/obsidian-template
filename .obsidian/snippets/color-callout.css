@@ -1,0 +1,125 @@
+.callout[data-callout="green-box"] {
+	--callout-color: 217, 245, 214;
+	border: 1px solid rgba(142, 224, 133, 0.8) !important;
+	color: rgba(46, 161, 33, 0.8);
+	border-radius: 5px;
+	background-color: rgba(var(--callout-color), 0.75);
+}
+
+.callout[data-callout="red-box"] {
+    --callout-color: 253, 226, 226;
+    border: 1px solid rgba(249, 142, 139, 0.8) !important;
+	color: rgba(216, 57, 49, 0.8);
+	border-radius: 5px;
+	background-color: rgba(var(--callout-color), 0.75);
+}
+
+.callout[data-callout="orange-box"] {
+    --callout-color: 254, 212, 164;
+    border: 1px solid rgba(254, 212, 164, 0.8) !important;
+	color: rgba(222, 120, 2, 0.8);
+	border-radius: 5px;
+	background-color: rgba(var(--callout-color), 0.75);
+}
+
+.callout[data-callout="purple-box"] {
+    --callout-color: 236, 226, 254;
+    border: 1px solid rgb(173, 130, 247, 0.8) !important;
+	color: rgb(100, 37, 208, 0.8);
+	border-radius: 5px;
+	background-color: rgba(var(--callout-color), 0.75);
+}
+
+.callout[data-callout="blue-box"] {
+    --callout-color: 225, 234, 255;
+    border: 1px solid rgba(130, 167, 252, 0.8) !important;
+	color: rgba(36, 91, 219, 0.8);
+	border-radius: 5px;
+	background-color: rgba(var(--callout-color), 0.75);
+}
+
+.callout[data-callout="gray-box"] {
+	--callout-color: 245, 246, 247;
+	border: 1px solid rgb(187, 191, 196);
+	color: rgb(143, 149, 158);
+	border-radius: 5px;
+	background-color: rgba(var(--callout-color), 0.8);
+}
+
+.callout[data-callout="gray-box"] .callout-title {
+	display: none;
+}
+
+
+.callout[data-callout="green-box"] .callout-title{
+	display: none;
+}
+
+.callout[data-callout="purple-box"] .callout-title{
+	display: none;
+}
+.callout[data-callout="blue-box"] .callout-title{
+	display: none;
+}
+
+.callout[data-callout="red-box"] .callout-title{
+	display: none;
+}
+
+.callout[data-callout="orange-box"] .callout-title{
+	display: none;
+}
+
+.callout[data-callout="yellow"] {
+	--callout-color: rgb(255,212,0); 
+	--callout-icon: lucide-info;
+	border-style: none;
+	border-left: 0.3rem solid #ffd400 !important;
+	border-radius: 0.1rem !important;
+    background-color: rgba(255,212,0,0.1) !important;
+}
+
+.callout[data-callout="red"] {
+	--callout-color: rgb(255,102,102); 
+	--callout-icon: lucide-info;
+	border-style: none;
+	border-left: 0.3rem solid rgb(255,102,102) !important;
+	border-radius: 0.1rem !important;
+    background-color: rgba(255,102,102,0.1) !important;
+}
+
+.callout[data-callout="green"] {
+	--callout-color: rgb(95,178,54); 
+	--callout-icon: lucide-info;
+	border-style: none;
+	border-left: 0.3rem solid rgb(95,178,54) !important;
+	border-radius: 0.1rem !important;
+    background-color: rgba(95,178,54,0.1) !important;
+}
+
+.callout[data-callout="purple"] {
+	--callout-color: rgb(162,138,229); 
+	--callout-icon: lucide-info;
+	border-style: none;
+	border-left: 0.3rem solid rgb(162,138,229) !important;
+	border-radius: 0.1rem !important;
+    background-color: rgba(162,138,229,0.1) !important;
+}
+
+.callout[data-callout="blue"] {
+	--callout-color: rgb(46,168,229); 
+	--callout-icon: lucide-info;
+	border-style: none;
+	border-left: 0.3rem solid rgb(46,168,229) !important;
+	border-radius: 0.1rem !important;
+    background-color: rgba(46,168,229,0.1) !important;
+}
+
+.callout[data-callout="green"] .callout-title,
+.callout[data-callout="purple"] .callout-title,
+.callout[data-callout="blue"] .callout-title,
+.callout[data-callout="red"] .callout-title,
+.callout[data-callout="yellow"] .callout-title {
+	display: none !important;
+}
+

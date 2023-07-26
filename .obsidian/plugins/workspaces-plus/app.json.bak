@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "./attachments",
+  "fileSortOrder": "alphabetical",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "userIgnoreFilters": null,
+  "communityThemeSortOrder": "release",
+  "newFileFolderPath": "temporary",
+  "showUnsupportedFiles": true
+}
